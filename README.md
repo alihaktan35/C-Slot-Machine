@@ -8,5 +8,4 @@ A mini slot machine game made with C.
 In this video, they use **Python.** I tried to convert this project to C language. The main theme is the same: Creating a slot machine game. Since Python and C has some different approachs, I had to change _so many things,_ actually.
 
 ### GIF to see what's the output of the code:
-![(https://i.hizliresim.com/l4jfdvg.gif)
-
+![alt text](https://i.hizliresim.com/l4jfdvg.gif "GIF")
